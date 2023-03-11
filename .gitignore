@@ -1,0 +1,30 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+.idea/
+.vscode/
+.settings
+.project
+.classpath
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+## IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+*.iml
+*.iws
+*.ipr
+*.jar
+.DS_Store
+Documentatie.docx
